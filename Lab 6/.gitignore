@@ -1,0 +1,6 @@
+
+# Python and coverage generated files
+.coverage
+__pycache__/
+.venv/
+.pytest_cache/
